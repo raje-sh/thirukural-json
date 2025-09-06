@@ -1,0 +1,800 @@
+[
+    {
+        "index": 1,
+        "title": "கடவுள் வாழ்த்து",
+        "titleEn": "The Praise of God",
+        "transiliteration": "Katavul Vaazhththu"
+    },
+    {
+        "index": 2,
+        "title": "வான்சிறப்பு",
+        "titleEn": "The Blessing of Rain",
+        "transiliteration": "Vaansirappu"
+    },
+    {
+        "index": 3,
+        "title": "நீத்தார் பெருமை",
+        "titleEn": "The Greatness of Ascetics",
+        "transiliteration": "Neeththaar Perumai"
+    },
+    {
+        "index": 4,
+        "title": "அறன் வலியுறுத்தல்",
+        "titleEn": "Assertion of the Strength of Virtue",
+        "transiliteration": "Aran Valiyuruththal"
+    },
+    {
+        "index": 5,
+        "title": "இல்வாழ்க்கை",
+        "titleEn": "Domestic Life",
+        "transiliteration": "Ilvaazhkkai"
+    },
+    {
+        "index": 6,
+        "title": "வாழ்க்கைத் துணைநலம்",
+        "titleEn": "The Worth of a Wife",
+        "transiliteration": "Vaazhkkaith Thunainalam"
+    },
+    {
+        "index": 7,
+        "title": "மக்கட்பேறு",
+        "titleEn": "The Wealth of Children",
+        "transiliteration": "Pudhalvaraip Perudhal"
+    },
+    {
+        "index": 8,
+        "title": "அன்புடைமை",
+        "titleEn": "The Possession of Love",
+        "transiliteration": "Anputaimai"
+    },
+    {
+        "index": 9,
+        "title": "விருந்தோம்பல்",
+        "titleEn": "Hospitality",
+        "transiliteration": "Virundhompal"
+    },
+    {
+        "index": 10,
+        "title": "இனியவை கூறல்",
+        "titleEn": "The Utterance of Pleasant Words",
+        "transiliteration": "Iniyavaikooral"
+    },
+    {
+        "index": 11,
+        "title": "செய்ந்நன்றியறிதல்",
+        "titleEn": "Gratitude",
+        "transiliteration": "Seynnandri Aridhal"
+    },
+    {
+        "index": 12,
+        "title": "நடுவு நிலைமை",
+        "titleEn": "Impartiality",
+        "transiliteration": "Natuvu Nilaimai"
+    },
+    {
+        "index": 13,
+        "title": "அடக்கம் உடைமை",
+        "titleEn": "The Possession of Self-restraint",
+        "transiliteration": "Atakkamutaimai"
+    },
+    {
+        "index": 14,
+        "title": "ஒழுக்கம் உடைமை",
+        "titleEn": "The Possession of Decorum",
+        "transiliteration": "Ozhukkamutaimai"
+    },
+    {
+        "index": 15,
+        "title": "பிறனில் விழையாமை",
+        "titleEn": "Not coveting another's Wife",
+        "transiliteration": "Piranil Vizhaiyaamai"
+    },
+    {
+        "index": 16,
+        "title": "பொறையுடைமை",
+        "titleEn": "The Possession of Patience, Forbearance",
+        "transiliteration": "Poraiyutaimai"
+    },
+    {
+        "index": 17,
+        "title": "அழுக்காறாமை",
+        "titleEn": "Not Envying",
+        "transiliteration": "Azhukkaaraamai"
+    },
+    {
+        "index": 18,
+        "title": "வெஃகாமை",
+        "titleEn": "Not Coveting",
+        "transiliteration": "Veqkaamai"
+    },
+    {
+        "index": 19,
+        "title": "புறங்கூறாமை",
+        "titleEn": "Not Backbiting",
+        "transiliteration": "Purangooraamai"
+    },
+    {
+        "index": 20,
+        "title": "பயனில சொல்லாமை",
+        "titleEn": "Against Vain Speaking",
+        "transiliteration": "Payanila Sollaamai"
+    },
+    {
+        "index": 21,
+        "title": "தீவினையச்சம்",
+        "titleEn": "Dread of Evil Deeds",
+        "transiliteration": "Theevinaiyachcham"
+    },
+    {
+        "index": 22,
+        "title": "ஒப்புரவறிதல்",
+        "titleEn": "Duty to Society",
+        "transiliteration": "Oppuravaridhal"
+    },
+    {
+        "index": 23,
+        "title": "ஈ.கை",
+        "titleEn": "Giving",
+        "transiliteration": "Eekai"
+    },
+    {
+        "index": 24,
+        "title": "புகழ்",
+        "titleEn": "Renown",
+        "transiliteration": "Pukazh"
+    },
+    {
+        "index": 25,
+        "title": "அருளுடைமை",
+        "titleEn": "Compassion",
+        "transiliteration": "Arulutaimai"
+    },
+    {
+        "index": 26,
+        "title": "புலால் மறுத்தல்",
+        "titleEn": "Abstinence from Flesh",
+        "transiliteration": "Pulaanmaruththal"
+    },
+    {
+        "index": 27,
+        "title": "தவம்",
+        "titleEn": "Penance",
+        "transiliteration": "Thavam"
+    },
+    {
+        "index": 28,
+        "title": "கூடா ஒழுக்கம்",
+        "titleEn": "Imposture",
+        "transiliteration": "Kootaavozhukkam"
+    },
+    {
+        "index": 29,
+        "title": "கள்ளாமை",
+        "titleEn": "The Absence of Fraud",
+        "transiliteration": "Kallaamai"
+    },
+    {
+        "index": 30,
+        "title": "வாய்மை",
+        "titleEn": "Veracity",
+        "transiliteration": "Vaaimai"
+    },
+    {
+        "index": 31,
+        "title": "வெகுளாமை",
+        "titleEn": "Restraining Anger",
+        "transiliteration": "Vekulaamai"
+    },
+    {
+        "index": 32,
+        "title": "இன்னா செய்யாமை",
+        "titleEn": "Not doing Evil",
+        "transiliteration": "Innaaseyyaamai"
+    },
+    {
+        "index": 33,
+        "title": "கொல்லாமை",
+        "titleEn": "Not killing",
+        "transiliteration": "Kollaamai"
+    },
+    {
+        "index": 34,
+        "title": "நிலையாமை",
+        "titleEn": "Instability",
+        "transiliteration": "Nilaiyaamai"
+    },
+    {
+        "index": 35,
+        "title": "துறவு",
+        "titleEn": "Renunciation",
+        "transiliteration": "Thuravu"
+    },
+    {
+        "index": 36,
+        "title": "மெய்யுணர்தல்",
+        "titleEn": "Truth-Conciousness",
+        "transiliteration": "Meyyunardhal"
+    },
+    {
+        "index": 37,
+        "title": "அவா அறுத்தல்",
+        "titleEn": "Curbing of Desire",
+        "transiliteration": "Avaavaruththal"
+    },
+    {
+        "index": 38,
+        "title": "ஊழ்",
+        "titleEn": "Fate",
+        "transiliteration": "Oozh"
+    },
+    {
+        "index": 39,
+        "title": "இறைமாட்சி",
+        "titleEn": "The Greatness of a King",
+        "transiliteration": "Iraimaatchi"
+    },
+    {
+        "index": 40,
+        "title": "கல்வி",
+        "titleEn": "Learning",
+        "transiliteration": "Kalvi"
+    },
+    {
+        "index": 41,
+        "title": "கல்லாமை",
+        "titleEn": "Ignorance",
+        "transiliteration": "Kallaamai"
+    },
+    {
+        "index": 42,
+        "title": "கேள்வி",
+        "titleEn": "Hearing",
+        "transiliteration": "Kelvi"
+    },
+    {
+        "index": 43,
+        "title": "அறிவுடைமை",
+        "titleEn": "The Possession of Knowledge",
+        "transiliteration": "Arivutaimai"
+    },
+    {
+        "index": 44,
+        "title": "குற்றங்கடிதல்",
+        "titleEn": "The Correction of Faults",
+        "transiliteration": "Kutrangatidhal"
+    },
+    {
+        "index": 45,
+        "title": "பெரியாரைத் துணைக்கோடல்",
+        "titleEn": "Seeking the Aid of Great Men",
+        "transiliteration": "Periyaaraith Thunaikkotal"
+    },
+    {
+        "index": 46,
+        "title": "சிற்றினம் சேராமை",
+        "titleEn": "Avoiding mean Associations",
+        "transiliteration": "Sitrinanjeraamai"
+    },
+    {
+        "index": 47,
+        "title": "தெரிந்து செயல்வகை",
+        "titleEn": "Acting after due Consideration",
+        "transiliteration": "Therindhuseyalvakai"
+    },
+    {
+        "index": 48,
+        "title": "வலியறிதல்",
+        "titleEn": "The Knowledge of Power",
+        "transiliteration": "Valiyaridhal"
+    },
+    {
+        "index": 49,
+        "title": "காலமறிதல்",
+        "titleEn": "Knowing the fitting Time",
+        "transiliteration": "Kaalamaridhal"
+    },
+    {
+        "index": 50,
+        "title": "இடனறிதல்",
+        "titleEn": "Knowing the Place",
+        "transiliteration": "Itanaridhal"
+    },
+    {
+        "index": 51,
+        "title": "தெரிந்து தெளிதல்",
+        "titleEn": "Selection and Confidence",
+        "transiliteration": "Therindhudhelidhal"
+    },
+    {
+        "index": 52,
+        "title": "தெரிந்து வினையாடல்",
+        "titleEn": "Selection and Employment",
+        "transiliteration": "Therindhuvinaiyaatal"
+    },
+    {
+        "index": 53,
+        "title": "சுற்றந் தழால்",
+        "titleEn": "Cherishing Kinsmen",
+        "transiliteration": "Sutrandhazhaal"
+    },
+    {
+        "index": 54,
+        "title": "பொச்சாவாமை",
+        "titleEn": "Unforgetfulness",
+        "transiliteration": "Pochchaavaamai"
+    },
+    {
+        "index": 55,
+        "title": "செங்கோன்மை",
+        "titleEn": "The Right Sceptre",
+        "transiliteration": "Sengonmai"
+    },
+    {
+        "index": 56,
+        "title": "கொடுங்கோன்மை",
+        "titleEn": "The Cruel Sceptre",
+        "transiliteration": "Kotungonmai"
+    },
+    {
+        "index": 57,
+        "title": "வெருவந்த செய்யாமை",
+        "titleEn": "Absence of Terrorism",
+        "transiliteration": "Veruvandhaseyyaamai"
+    },
+    {
+        "index": 58,
+        "title": "கண்ணோட்டம்",
+        "titleEn": "Benignity",
+        "transiliteration": "Kannottam"
+    },
+    {
+        "index": 59,
+        "title": "ஒற்றாடல்",
+        "titleEn": "Detectives",
+        "transiliteration": "Otraatal"
+    },
+    {
+        "index": 60,
+        "title": "ஊக்கம் உடைமை",
+        "titleEn": "Energy",
+        "transiliteration": "Ookkamutaimai"
+    },
+    {
+        "index": 61,
+        "title": "மடி இன்மை",
+        "titleEn": "Unsluggishness",
+        "transiliteration": "Matiyinmai"
+    },
+    {
+        "index": 62,
+        "title": "ஆள்வினை உடைமை",
+        "titleEn": "Manly Effort",
+        "transiliteration": "Aalvinaiyutaimai"
+    },
+    {
+        "index": 63,
+        "title": "இடுக்கண் அழியாமை",
+        "titleEn": "Hopefulness in Trouble",
+        "transiliteration": "Itukkan Azhiyaamai"
+    },
+    {
+        "index": 64,
+        "title": "அமைச்சு",
+        "titleEn": "The Office of Minister of state",
+        "transiliteration": "Amaichchu"
+    },
+    {
+        "index": 65,
+        "title": "சொல்வன்மை",
+        "titleEn": "Power of Speech",
+        "transiliteration": "Solvanmai"
+    },
+    {
+        "index": 66,
+        "title": "வினைத் தூய்மை",
+        "titleEn": "Purity in Action",
+        "transiliteration": "Vinaiththooimai"
+    },
+    {
+        "index": 67,
+        "title": "வினைத்திட்பம்",
+        "titleEn": "Power in Action",
+        "transiliteration": "Vinaiththitpam"
+    },
+    {
+        "index": 68,
+        "title": "வினை செயல்வகை",
+        "titleEn": "Modes of Action",
+        "transiliteration": "Vinaiseyalvakai"
+    },
+    {
+        "index": 69,
+        "title": "தூது",
+        "titleEn": "The Envoy",
+        "transiliteration": "Thoodhu"
+    },
+    {
+        "index": 70,
+        "title": "மன்னரைச் சேர்ந்து ஒழுகல்",
+        "titleEn": "Conduct in the Presence of the King",
+        "transiliteration": "Mannaraich Cherndhozhudhal"
+    },
+    {
+        "index": 71,
+        "title": "குறிப்பறிதல்",
+        "titleEn": "The Knowledge of Indications",
+        "transiliteration": "Kuripparidhal"
+    },
+    {
+        "index": 72,
+        "title": "அவை அறிதல்",
+        "titleEn": "The Knowledge of the Council Chamber",
+        "transiliteration": "Avaiyaridhal"
+    },
+    {
+        "index": 73,
+        "title": "அவை அஞ்சாமை",
+        "titleEn": "Not to dread the Council",
+        "transiliteration": "Avaiyanjaamai"
+    },
+    {
+        "index": 74,
+        "title": "நாடு",
+        "titleEn": "The Land",
+        "transiliteration": "Naatu"
+    },
+    {
+        "index": 75,
+        "title": "அரண்",
+        "titleEn": "The Fortification",
+        "transiliteration": "Aran"
+    },
+    {
+        "index": 76,
+        "title": "பொருள் செயல்வகை",
+        "titleEn": "Way of Accumulating Wealth",
+        "transiliteration": "Porulseyalvakai"
+    },
+    {
+        "index": 77,
+        "title": "படை மாட்சி",
+        "titleEn": "The Excellence of an Army",
+        "transiliteration": "Pataimaatchi"
+    },
+    {
+        "index": 78,
+        "title": "படைச் செருக்கு",
+        "titleEn": "Military Spirit",
+        "transiliteration": "Pataichcherukku"
+    },
+    {
+        "index": 79,
+        "title": "நட்பு",
+        "titleEn": "Friendship",
+        "transiliteration": "Natpu"
+    },
+    {
+        "index": 80,
+        "title": "நட்பாராய்தல்",
+        "titleEn": "Investigation in forming Friendships",
+        "transiliteration": "Natpaaraaidhal"
+    },
+    {
+        "index": 81,
+        "title": "பழைமை",
+        "titleEn": "Familiarity",
+        "transiliteration": "Pazhaimai"
+    },
+    {
+        "index": 82,
+        "title": "தீ நட்பு",
+        "titleEn": "Evil Friendship",
+        "transiliteration": "Thee Natpu"
+    },
+    {
+        "index": 83,
+        "title": "கூடா நட்பு",
+        "titleEn": "Unreal Friendship",
+        "transiliteration": "Kootaanatpu"
+    },
+    {
+        "index": 84,
+        "title": "பேதைமை",
+        "titleEn": "Folly",
+        "transiliteration": "Pedhaimai"
+    },
+    {
+        "index": 85,
+        "title": "புல்லறிவாண்மை",
+        "titleEn": "Ignorance",
+        "transiliteration": "Pullarivaanmai"
+    },
+    {
+        "index": 86,
+        "title": "இகல்",
+        "titleEn": "Hostility",
+        "transiliteration": "Ikal"
+    },
+    {
+        "index": 87,
+        "title": "பகை மாட்சி",
+        "titleEn": "The Might of Hatred",
+        "transiliteration": "Pakaimaatchi"
+    },
+    {
+        "index": 88,
+        "title": "பகைத்திறம் தெரிதல்",
+        "titleEn": "Knowing the Quality of Hate",
+        "transiliteration": "Pakaiththirandheridhal"
+    },
+    {
+        "index": 89,
+        "title": "உட்பகை",
+        "titleEn": "Enmity within",
+        "transiliteration": "Utpakai"
+    },
+    {
+        "index": 90,
+        "title": "பெரியாரைப் பிழையாமை",
+        "titleEn": "Not Offending the Great",
+        "transiliteration": "Periyaaraip Pizhaiyaamai"
+    },
+    {
+        "index": 91,
+        "title": "பெண்வழிச் சேறல்",
+        "titleEn": "Being led by Women",
+        "transiliteration": "Penvazhichcheral"
+    },
+    {
+        "index": 92,
+        "title": "வரைவின் மகளிர்",
+        "titleEn": "Wanton Women",
+        "transiliteration": "Varaivinmakalir"
+    },
+    {
+        "index": 93,
+        "title": "கள்ளுண்ணாமை",
+        "titleEn": "Not Drinking Palm-Wine",
+        "transiliteration": "Kallunnaamai"
+    },
+    {
+        "index": 94,
+        "title": "சூது",
+        "titleEn": "Gambling",
+        "transiliteration": "Soodhu"
+    },
+    {
+        "index": 95,
+        "title": "மருந்து",
+        "titleEn": "Medicine",
+        "transiliteration": "Marundhu"
+    },
+    {
+        "index": 96,
+        "title": "குடிமை",
+        "titleEn": "Nobility",
+        "transiliteration": "Kutimai"
+    },
+    {
+        "index": 97,
+        "title": "மானம்",
+        "titleEn": "Honour",
+        "transiliteration": "Maanam"
+    },
+    {
+        "index": 98,
+        "title": "பெருமை",
+        "titleEn": "Greatness",
+        "transiliteration": "Perumai"
+    },
+    {
+        "index": 99,
+        "title": "சான்றாண்மை",
+        "titleEn": "Perfectness",
+        "transiliteration": "Saandraanmai"
+    },
+    {
+        "index": 100,
+        "title": "பண்புடைமை",
+        "titleEn": "Courtesy",
+        "transiliteration": "Panputaimai"
+    },
+    {
+        "index": 101,
+        "title": "நன்றியில் செல்வம்",
+        "titleEn": "Wealth without Benefaction",
+        "transiliteration": "Nandriyilselvam"
+    },
+    {
+        "index": 102,
+        "title": "நாணுடைமை",
+        "titleEn": "Shame",
+        "transiliteration": "Naanutaimai"
+    },
+    {
+        "index": 103,
+        "title": "குடிசெயல் வகை",
+        "titleEn": "The Way of Maintaining the Family",
+        "transiliteration": "Kutiseyalvakai"
+    },
+    {
+        "index": 104,
+        "title": "உழவு",
+        "titleEn": "Farming",
+        "transiliteration": "Uzhavu"
+    },
+    {
+        "index": 105,
+        "title": "நல்குரவு",
+        "titleEn": "Poverty",
+        "transiliteration": "Nalkuravu"
+    },
+    {
+        "index": 106,
+        "title": "இரவு",
+        "titleEn": "Mendicancy",
+        "transiliteration": "Iravu"
+    },
+    {
+        "index": 107,
+        "title": "இரவச்சம்",
+        "titleEn": "The Dread of Mendicancy",
+        "transiliteration": "Iravachcham"
+    },
+    {
+        "index": 108,
+        "title": "கயமை",
+        "titleEn": "Baseness",
+        "transiliteration": "Kayamai"
+    },
+    {
+        "index": 109,
+        "title": "தகை அணங்குறுத்தல்",
+        "titleEn": "The Pre-marital love",
+        "transiliteration": "Thakaiyananguruththal"
+    },
+    {
+        "index": 110,
+        "title": "குறிப்பறிதல்",
+        "titleEn": "Recognition of the Signs",
+        "transiliteration": "Kuripparidhal"
+    },
+    {
+        "index": 111,
+        "title": "புணர்ச்சி மகிழ்தல்",
+        "titleEn": "Rejoicing in the Embrace",
+        "transiliteration": "Punarchchimakizhdhal"
+    },
+    {
+        "index": 112,
+        "title": "நலம் புனைந்து உரைத்தல்",
+        "titleEn": "The Praise of her Beauty",
+        "transiliteration": "Nalampunaindhuraiththal"
+    },
+    {
+        "index": 113,
+        "title": "காதற் சிறப்புரைத்தல்",
+        "titleEn": "Declaration of Love's special Excellence",
+        "transiliteration": "Kaadharsirappuraiththal"
+    },
+    {
+        "index": 114,
+        "title": "நாணுத் துறவுரைத்தல்",
+        "titleEn": "The Abandonment of Reserve",
+        "transiliteration": "Naanuththuravuraiththal"
+    },
+    {
+        "index": 115,
+        "title": "அலர் அறிவுறுத்தல்",
+        "titleEn": "The Announcement of the Rumour",
+        "transiliteration": "Alararivuruththal"
+    },
+    {
+        "index": 116,
+        "title": "பிரிவு ஆற்றாமை",
+        "titleEn": "Separation unendurable",
+        "transiliteration": "Pirivaatraamai"
+    },
+    {
+        "index": 117,
+        "title": "படர்மெலிந் திரங்கல்",
+        "titleEn": "Complainings",
+        "transiliteration": "Patarmelindhirangal"
+    },
+    {
+        "index": 118,
+        "title": "கண் விதுப்பழிதல்",
+        "titleEn": "Eyes consumed with Grief",
+        "transiliteration": "Kanvidhuppazhidhal"
+    },
+    {
+        "index": 119,
+        "title": "பசப்புறு பருவரல்",
+        "titleEn": "The Pallid Hue",
+        "transiliteration": "Pasapparuparuvaral"
+    },
+    {
+        "index": 120,
+        "title": "தனிப்படர் மிகுதி",
+        "titleEn": "The Solitary Anguish",
+        "transiliteration": "Thanippatarmikudhi"
+    },
+    {
+        "index": 121,
+        "title": "நினைந்தவர் புலம்பல்",
+        "titleEn": "Sad Memories",
+        "transiliteration": "Ninaindhavarpulampal"
+    },
+    {
+        "index": 122,
+        "title": "கனவுநிலை உரைத்தல்",
+        "titleEn": "The Visions of the Night",
+        "transiliteration": "Kanavunilaiyuraiththal"
+    },
+    {
+        "index": 123,
+        "title": "பொழுதுகண்டு இரங்கல்",
+        "titleEn": "Lamentations at Eventide",
+        "transiliteration": "Pozhudhukantirangal"
+    },
+    {
+        "index": 124,
+        "title": "உறுப்புநலன் அழிதல்",
+        "titleEn": "Wasting Away",
+        "transiliteration": "Uruppunalanazhidhal"
+    },
+    {
+        "index": 125,
+        "title": "நெஞ்சொடு கிளத்தல்",
+        "titleEn": "Soliloquy",
+        "transiliteration": "Nenjotukilaththal"
+    },
+    {
+        "index": 126,
+        "title": "நிறையழிதல்",
+        "titleEn": "Reserve Overcome",
+        "transiliteration": "Niraiyazhidhal"
+    },
+    {
+        "index": 127,
+        "title": "அவர்வயின் விதும்பல்",
+        "titleEn": "Mutual Desire",
+        "transiliteration": "Avarvayinvidhumpal"
+    },
+    {
+        "index": 128,
+        "title": "குறிப்பறிவுறுத்தல்",
+        "titleEn": "The Reading of the Signs",
+        "transiliteration": "Kuripparivuruththal"
+    },
+    {
+        "index": 129,
+        "title": "புணர்ச்சி விதும்பல்",
+        "titleEn": "Desire for Reunion",
+        "transiliteration": "Punarchchividhumpal"
+    },
+    {
+        "index": 130,
+        "title": "நெஞ்சொடு புலத்தல்",
+        "titleEn": "Expostulation with Oneself",
+        "transiliteration": "Nenjotupulaththal"
+    },
+    {
+        "index": 131,
+        "title": "புலவி",
+        "titleEn": "Pouting",
+        "transiliteration": "Pulavi"
+    },
+    {
+        "index": 132,
+        "title": "புலவி நுணுக்கம்",
+        "titleEn": "Feigned Anger",
+        "transiliteration": "Pulavi Nunukkam"
+    },
+    {
+        "index": 133,
+        "title": "ஊடலுவகை",
+        "titleEn": "The Pleasures of Temporary Variance",
+        "transiliteration": "Ootaluvakai"
+    }
+]
